@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lUhpAefxevU=",
+  "dgSpecHash": "tRrwWqBn4/Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\makro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\makro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.11\\microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",

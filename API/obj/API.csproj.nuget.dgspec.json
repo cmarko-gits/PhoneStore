@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\api\\API.csproj": {}
+    "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\api\\API.csproj": {
+    "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\api\\API.csproj",
+        "projectPath": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\makro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\api\\obj\\",
+        "outputPath": "C:\\Users\\makro\\OneDrive\\Desktop\\PhoneStore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
